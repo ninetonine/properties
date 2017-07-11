@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README #
 
 This README would normally document whatever steps are necessary to get your application up and running.
@@ -27,3 +28,7 @@ This README would normally document whatever steps are necessary to get your app
 
 * Repo owner or admin
 * Other community or team contact
+=======
+# properties
+testing git
+>>>>>>> 7bd25c46a16e31ea72802e0d7c95c6924697eb98
